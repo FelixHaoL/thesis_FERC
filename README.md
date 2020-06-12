@@ -8,4 +8,4 @@ hmmlearn: https://github.com/hmmlearn/hmmlearn
 lmfit: https://github.com/lmfit/lmfit-py/
 
 
-NOTE that python file in it can't be run directely, and anyone wants to use these module should consider modify these code(funtion) based your data.
+NOTE that python file in it can't be run directely, and anyone wants to use these module should consider modify these code(funtions) based your data.
