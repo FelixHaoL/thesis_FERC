@@ -5,4 +5,4 @@ The used modules includes standar python data analize modules like numpy, scipy,
 
 hmmlearn: https://github.com/hmmlearn/hmmlearn
 
-lmfit: http:/lmfit.github.io/lmfit-py
+lmfit: https://github.com/lmfit/lmfit-py/
